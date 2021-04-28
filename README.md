@@ -3,20 +3,21 @@ Hi, I’m Michal.
 - Proficient in 💪:
     - SQL 
     - R 
-    - SAS
-    - Databases   
-    - Linux
+    - SAS 
+    - Databases 
+    - Linux 
     
 <br> 
 
 - Developing skills in 📖: 
-  - Python
+  - Python 
 
 <br> 
     
 - Things on the learning to-do list 📚:
-  - Lambda runtimes
-  - Docker
+  - Lambda runtimes 
+  - Docker 
+  - Containers 
   - ...
   
   
