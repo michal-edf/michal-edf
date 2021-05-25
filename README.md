@@ -1,6 +1,6 @@
 Hi, I’m Michal.  
 
-# Proficient in 💪:
+### Proficient in 💪:
 - SQL 
 - R 
 - SAS 
@@ -9,16 +9,16 @@ Hi, I’m Michal.
     
 <br> 
 
-- Developing skills in 📖: 
-  - Python 
+### Developing skills in 📖: 
+- Python 
 
 <br> 
     
-- Things on the learning to-do list 📚:
-  - Lambda runtimes 
-  - Docker 
-  - Containers 
-  - ...
+### Things on the learning to-do list 📚:
+- Lambda runtimes 
+- Docker 
+- Containers 
+- ...
   
   
 
