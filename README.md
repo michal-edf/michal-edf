@@ -1,6 +1,6 @@
 Hi, I’m Michal.  
 
-# Proficient in 💪:
+## Proficient in 💪:
 - SQL 
 - R 
 - SAS 
