@@ -1,11 +1,11 @@
 Hi, I’m Michal.  
 
-- Proficient in 💪:
-    - SQL 
-    - R 
-    - SAS 
-    - Databases 
-    - Linux 
+# Proficient in 💪:
+- SQL 
+- R 
+- SAS 
+- Databases 
+- Linux 
     
 <br> 
 
