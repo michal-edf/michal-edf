@@ -15,9 +15,9 @@ Hi, I’m Michal.
 <br> 
     
 ### Things on the learning to-do list 📚:
-- Lambda runtimes 
-- Docker 
 - Containers 
+- Docker 
+- Lambda runtimes 
 - ...
   
   
