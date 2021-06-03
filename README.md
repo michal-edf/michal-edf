@@ -11,13 +11,14 @@ Hi, I’m Michal.
 
 ### Developing skills in 📖: 
 - Python 
+- Containers
+- Docker
 
 <br> 
     
-### Things on the learning to-do list 📚:
-- Containers 
-- Docker 
-- Lambda runtimes 
+### Things on the learning to-do list 📚: 
+- AWS Lambda
+- C# 
 - ...
   
   
