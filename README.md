@@ -10,6 +10,7 @@ Hi, I’m Michal.
 <br> 
 
 ### Developing skills in 📖: 
+- Terraform
 - Python 
 - Containers
 - Docker
@@ -17,7 +18,6 @@ Hi, I’m Michal.
 <br> 
     
 ### Things on the learning to-do list 📚: 
-- Terraform
 - AWS Lambda
 - React JS
 - C# 
