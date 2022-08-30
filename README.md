@@ -19,9 +19,10 @@ Hi, I’m Michal.
     
 ### Things on the learning to-do list 📚: 
 - AWS Lambda
-- React JS
 - C 
 - C++ 
+- JavaScript 
+- React JS 
 - ...
   
   
